@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.hyp.timhypios"
+        }
+    }
+}
