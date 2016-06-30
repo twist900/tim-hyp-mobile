@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.hyp.timhypios" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>TimHypIos</name>
+<widget id="com.hyp.timhyp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>TimHyp</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        TIM mobile application developed for HYP course, Polimi.
+        By Georgy Shabunin and Gabriele Maddalena.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="georgy.shabunin@gmail.com" href="http://phonegap.com">
+        Georgy Shabunin and Gabriele Maddalena
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
